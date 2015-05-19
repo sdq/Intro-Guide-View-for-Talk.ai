@@ -1,0 +1,13 @@
+PODS:
+  - JazzHands (0.2.1)
+  - StyledPageControl (1.0)
+
+DEPENDENCIES:
+  - JazzHands
+  - StyledPageControl
+
+SPEC CHECKSUMS:
+  JazzHands: d2343c3f2f9d70598d0cad8f521ce3893842a44a
+  StyledPageControl: b49f33cb65b99370a78a490fac127b1ca6472fd0
+
+COCOAPODS: 0.36.4
